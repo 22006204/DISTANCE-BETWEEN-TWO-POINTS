@@ -30,7 +30,8 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-1[output](./P1.png)
+![P1](https://user-images.githubusercontent.com/118787261/213269815-53faec3f-47fc-4bc0-9fd2-e15defe7c313.png)
+
 
 
 ### RESULT:
